@@ -1,6 +1,5 @@
-# all_the_good_stuff
-List of good projects
-    
+# All The Good Stuff
+List of useful articles and scripts    
         
 # Pi Stuff    
     
