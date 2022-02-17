@@ -39,7 +39,7 @@ List of useful articles and scripts
 | Tkinter Pages | https://stackoverflow.com/questions/14817210/using-buttons-in-tkinter-to-navigate-to-different-pages-of-the-application |
 | Tkinter ToolTips| https://stackoverflow.com/questions/3221956/how-do-i-display-tooltips-in-tkinter|
 | Hex Colors | https://www.color-hex.com/color/696969 |
-| --- | --- |
+| Pi Cam Distance| https://pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/ |
 | --- | --- |
 | --- | --- |
 | --- | --- |
