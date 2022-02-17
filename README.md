@@ -40,7 +40,7 @@ List of useful articles and scripts
 | Tkinter ToolTips| https://stackoverflow.com/questions/3221956/how-do-i-display-tooltips-in-tkinter|
 | Hex Colors | https://www.color-hex.com/color/696969 |
 | Pi Cam Distance| https://pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/ |
-| --- | --- |
+| System Trey | https://github.com/vfxpipeline/SystemTray |
 | --- | --- |
 | --- | --- |
 
